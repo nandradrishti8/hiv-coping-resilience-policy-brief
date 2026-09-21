@@ -18,6 +18,23 @@ Rather than proposing new institutional infrastructure, this policy brief provid
 ## Repository Architecture and Core Deliverables 
 | File / Asset | Type | Description | 
 | :--- | :--- | :--- |
-| ['data:table2_coping_means.csv'](./data/table2_coping_means.csv) | Dataset (CSV) | 
-| ['data:table3_coping_means.csv'](./data/table3_coping_means.csv) | Dataset (CSV) | 
-| ['figure1_correlations.png'](./figure1_correlations.png) | Visualisation | 
+| ['Policy Brief'](./Policy_Brief_HIV_Coping_Resilience.pdf) | PDF | Summarizes complex research findings into concise, actionable key takeaways for policy makers, stakeholders, or non-technical readers who don't need to dive into raw data.
+| ['data:table2_coping_means.csv'](./data:table2_coping_means.csv) | Dataset (CSV) | Descriptive statistics ($M$, $SD$, Min, Max) for Brief COPE coping subscales. |
+| ['data:table3_coping_means.csv'](./data:table3_coping_means.csv) | Dataset (CSV) | Additional statistical summary table for sample coping mechanics. |
+| ['figure1_correlations.png'](./figure1_correlations.png) | Visualisation | Bar chart showing Pearson $r$ correlations between coping strategies and resilience. |
+
+## Limitations
+
+- One cross-sectional, correlational study, so the brief cannot show that any coping strategy causes resilience. Associations were small to moderate.
+- Small convenience sample (N = 121) from three hospitals; 8 participants were women; participants needed a basic understanding of English.
+- The guideline review uses documents only and does not show how services work in practice.
+- The recommendations are for piloting and evaluation, not scale-up.
+
+## Data note
+
+Participant-level data are not shared. They come from patients at public hospitals. Only summary tables already reported in the published study are included.
+
+## Author
+
+Drishti Kaur Nandra
+
