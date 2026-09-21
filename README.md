@@ -1,9 +1,12 @@
 # Strengthening Coping-Focused Support for People Living with HIV in Public Hospital Settings in India
 **Author:** Drishti Kaur Nandra  
 **Date:** September 2026  
-**Project Type:** Policy brief based on a published study 
+**Project Type:** Policy brief based on a published study.  
 **Intended Audience:** National AIDS Control Organisation (NACO), Ministry of Health and Family Welfare (MoHFW), India
+
 ---
+
+
 ### Policy Question 
 NACO already provides depression screening and peer counselling for people on ART. Based on what was associated with resilience in a sample of 121 people living with HIV in north India, which coping-focused additions to counselling and support groups are worth piloting in public hospital HIV services?
 
