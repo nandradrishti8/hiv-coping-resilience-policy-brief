@@ -18,6 +18,6 @@ Rather than proposing new institutional infrastructure, this policy brief provid
 ## Repository Architecture and Core Deliverables 
 | File / Asset | Type | Description | 
 | :--- | :--- | :--- |
-| ['data/table2_coping_means.csv'](./data/table2_coping_means.csv) | Dataset (CSV) | 
-| ['data/table3_coping_means.csv'](./data/table3_coping_means.csv) | Dataset (CSV) | 
+| ['data:table2_coping_means.csv'](./data/table2_coping_means.csv) | Dataset (CSV) | 
+| ['data:table3_coping_means.csv'](./data/table3_coping_means.csv) | Dataset (CSV) | 
 | ['figure1_correlations.png'](./figure1_correlations.png) | Visualisation | 
