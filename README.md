@@ -7,11 +7,9 @@
 
 ## Executive Summary
 
-While India's National AIDS Control Organisation (NACO) NACP-V guidelines mandate routine depression screening and peer-led Care and Support Centres (CSCs), current psychosocial implementation leaves a critical gap in targeted coping mechanisms. 
+NACO's guidelines already require depression screening at ART centres and provide peer counselling through Care and Support Centres (CSCs). The suggested CSC support group topics do not name coping skills or self-blame. 
 
-Drawing on primary empirical data from $N = 121$ adults living with HIV across three public hospitals in North India, this study examines how specific coping strategies relate to psychological resilience. Findings reveal that while emotional support ($r = .32$) and positive reframing ($r = .23$) strongly correlate with higher resilience, common mechanisms like self-blame ($r = -.18$) and unguided venting ($r = -.20$) significantly erode resilience.
-
-Rather than proposing new institutional infrastructure, this policy brief provides actionable, low-cost programmatic refinements: piloting structured cognitive reframing within existing CSC support groups, tracking peer counseling reach across gender cohorts, and pairing treatment education directly with emotional support.
+This brief is based on a survey of 121 adults living with HIV at three public hospitals in north India (Nandra & Khurana, 2025). Emotional support ($r = .32$), positive reframing ($r = .23$) and information use ($r = .18$) were associated with higher resilience, and self-blame ($r = −.18$), venting ($r = −.20$) and humour ($r = −.23$) with lower resilience. These associations are small to moderate and cannot show cause and effect. Drawing on reviews of psychosocial interventions and ART adherence, and on NACO's own guidelines, the brief recommends that NACO and State AIDS Control Societies approve a six-month controlled pilot of coping-focused support at three or four ART centres with linked CSCs, using existing counsellors and outreach workers, with pre-specified criteria for deciding on wider rollout.
 
 ---
 ## Key Empirical Findings
